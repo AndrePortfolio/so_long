@@ -3,7 +3,7 @@
 ## 🚀 Project Overview
 So Long is a 2D game created using C and the MiniLibX library. The game challenges players to navigate through a labyrinthine map, collect valuable items, and make their way to the exit while dodging obstacles. Inspired by classic arcade-style gameplay, this project is a testament to a deep dive into game development fundamentals and essential C programming skills.
 
-<img src="./so_long.mov" type="video/mp4">
+<video src="./so_long.mov" type="video/mp4"></video>
 
 ## 🛠 Skills and Knowledge Gained
 ### Core Programming Skills
