@@ -8,7 +8,7 @@ So Long is a 2D game created using C and the MiniLibX library. The game challeng
   Your browser does not support the video tag.
 </video>
 
-![Game Preview](https://github.com/AndrePortfolio/so_long/blob/main/so_long_img.png) <!-- Add a screenshot for context -->
+[![Game Preview](https://github.com/AndrePortfolio/so_long/blob/main/so_long_img.png)](https://github.com/AndrePortfolio/your-repo/blob/main/so_long.mov)
 
 
 ## 🛠 Skills and Knowledge Gained
