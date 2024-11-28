@@ -8,6 +8,9 @@ So Long is a 2D game created using C and the MiniLibX library. The game challeng
   Your browser does not support the video tag.
 </video>
 
+![Game Preview](https://github.com/AndrePortfolio/so_long/blob/main/so_long_img.png) <!-- Add a screenshot for context -->
+
+
 ## 🛠 Skills and Knowledge Gained
 ### Core Programming Skills
 - **Mastering C Language**: Strengthened proficiency in writing clear, modular C code, emphasizing proper memory management, and debugging.
